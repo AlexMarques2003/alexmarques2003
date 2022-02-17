@@ -1,7 +1,7 @@
 ### Olá eu sou o Alex Marques 👋
 
 - 🔭 Hoje estou trabalhando com SAP
-- 🌱 Estudando Javascript, Nodejs, Typescript e React native
+- 🌱 Estudando Javascript, Nodejs, Typescript e React native - Voltei! 😂✌🎉
 
 
 <div align="center">
