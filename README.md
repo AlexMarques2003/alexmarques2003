@@ -1,6 +1,6 @@
 ### Olá eu sou o Alex Marques 👋
 
-- 🔭 Hoje estou trabalhando com SAP
+- 🔭 Trabalhando com o ERP SAP - Módulo MM
 - 🌱 Estudando Javascript, Nodejs, Typescript e React native - Voltei! 😂✌🎉
 
 
