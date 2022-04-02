@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/alexmarques2003">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexmarques2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=alexmarques2003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmarques2003&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -18,5 +18,6 @@
   <img align="center" alt="Alex-Express" height="30" width="98" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="Alex-Node" height="30" width="98" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="Alex-Aws" height="30" width="98" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img align="center" alt="Alex-Aws" height="30" width="98" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
  </div>  
   
