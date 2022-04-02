@@ -1,8 +1,7 @@
-### Olá eu sou o Alex Marques 👋
+### Olá pode me chamar de Alex 👋
 
-- 🔭 Trabalhando com o ERP SAP - Módulo MM
-- 🌱 Estudando Javascript, Nodejs, Typescript e React native - Voltei! 😂✌🎉
-
+- 🌱 Estudando Java - Spring Boot - TDD
+- 
 
 <div align="center">
   <a href="https://github.com/alexmarques2003">
