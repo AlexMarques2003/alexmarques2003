@@ -1,7 +1,6 @@
 ### Olá pode me chamar de Alex 👋
 
 - 🌱 Estudando Java - Spring Boot - TDD
-- 
 
 <div align="center">
   <a href="https://github.com/alexmarques2003">
