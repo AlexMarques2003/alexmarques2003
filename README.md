@@ -1,6 +1,9 @@
 ### Olá, pode me chamar de Alex 👋
 
+- Trabalhando com SAP - https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white
 - 🌱 Estudando Java - Spring Boot - TDD
+
+
 
 <div align="center">
   <a href="https://github.com/alexmarques2003">
