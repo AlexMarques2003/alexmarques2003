@@ -1,4 +1,4 @@
-### Olá pode me chamar de Alex 👋
+### Olá, pode me chamar de Alex 👋
 
 - 🌱 Estudando Java - Spring Boot - TDD
 
