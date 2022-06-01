@@ -1,9 +1,8 @@
 ### Olá, pode me chamar de Alex 👋
 
-- 🌱 Estudando Java - Spring Boot - TDD
-
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="antonioalexmarquesalbuquerque" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/antonioalexmarquesalbuquerque?trk=profile-badge">Alex M. Albuquerque</a></div>
-              
+- Atualmente trabalhando como Analista SAP
+- Estudando Java - Spring Boot - TDD
+  
 ##
 
 <div align="center">
