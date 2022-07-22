@@ -1,8 +1,30 @@
 ### Olá, pode me chamar de Alex 👋
 
-- Atualmente trabalhando como Analista SAP
-- Estudando Java - Spring Boot - TDD
-  
+- Atualmente trabalhando como Analista Funcional SAP MM
+
+Estudando:
+- Java 
+- Spring Boot 
+- TDD 
+- Python 
+- R 
+- Ciência de Dados 
+- Power BI
+- MongoDB
+
+Com conhecimento em: 
+- Javascript
+- NodeJS
+- Python
+- SpringBoot
+- Lombok
+BD
+- Sql Server
+- Mysql
+- Postgres
+- Oracle
+
+
 ##
 
 <div align="center">
