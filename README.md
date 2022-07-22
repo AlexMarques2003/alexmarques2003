@@ -16,6 +16,7 @@ Com conhecimento em:
 - Javascript
 - NodeJS
 - Python
+- Java8
 - SpringBoot
 - Lombok
 BD
